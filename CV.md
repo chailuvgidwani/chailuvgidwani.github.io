@@ -1,11 +1,11 @@
 
 ---
-layout: category_index
+layout: page
 title: CV
 permalink: /CV/
-category_name: CV
----
 
+---
+CV HERE
 <!--
 Set the front matter:
 title = your page title and link name in the navigation
