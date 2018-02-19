@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 title:  "Markdown sample"
@@ -176,3 +177,4 @@ This is the final element on the page and there should be no margin below this.
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/
+-->
