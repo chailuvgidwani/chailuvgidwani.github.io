@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: 
 title: CV
 permalink: /CV/
 ---
 
-CV HERE
+<a href="/ChailuvGidwaniResume.pdf" target="_blank">CV</a>
