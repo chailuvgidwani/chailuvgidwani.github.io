@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Content Coming Soon!"
-date:   2016-08-05 20:20:56 -0400
+date:   2018-02-19 08:20:56 -0500
 categories: writing
 ---
 Welcome to my personal website! I'll be bringing more content here soon, including past work, CV, a short bio, among other things. 
