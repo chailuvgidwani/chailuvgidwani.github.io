@@ -1,7 +1,7 @@
 ---
 layout: 
 title: CV
-permalink: /CV/
+permalink: /ChailuvGidwaniResume.pdf/
 ---
 
-<a href="/ChailuvGidwaniResume.pdf" target="_blank">CV</a>
+
